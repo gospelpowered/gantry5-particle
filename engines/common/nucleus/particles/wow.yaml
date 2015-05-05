@@ -1,5 +1,5 @@
 name: WOW.js Reveal
-description: Reveal CSS animation as you scroll down a page
+description: Reveal CSS animation as you scroll down a page. Requires animate.css
 type: atom
 
 form:
