@@ -1,0 +1,11 @@
+name: WOW.js Reveal
+description: Reveal CSS animation as you scroll down a page
+type: atom
+
+form:
+  fields:
+    enabled:
+      type: input.checkbox
+      label: Enabled
+      description: Globally enable the atom.
+      default: false
